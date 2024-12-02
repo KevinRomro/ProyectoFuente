@@ -90,4 +90,7 @@ MONTAJE FINAL:
 
 <img width="226" alt="Montaje Final 2" src="https://github.com/user-attachments/assets/51703dfc-7aec-4aa2-a504-35be4ebf00c7">
 
+VIDEO FINAL:
+
+https://drive.google.com/drive/folders/1kIc3slkXnFMzkk8PTJN3GtMxK4tg7k69?usp=drive_link
 
