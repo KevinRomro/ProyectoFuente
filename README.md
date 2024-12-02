@@ -40,16 +40,15 @@ Funcionamineto del sistema:
 
 El sistema consiste en una fuente de alimentación lineal la cual transforma una corriente alterna de 230V en 5V de corriente continua. La fuente está compuesta por un transformador que convierte esos 230V AC en 15V AC mediante inducción electromagnética. Al generar tensión en el devanado primario se origina un flujo magnético en el núcleo de hierro. Este flujo viajará desde el devanado primario hasta el secundario. Después pasa por el rectificador el cual  es un puente de diodos que rectifica la señal haciendo que el voltaje siempre esté en el lado positivo, es decir, elimina la parte negativa de la señal. Luego pasa por el filtro que es un condensador polarizado que suaviza la señal haciendo ondas mucho menos pronunciadas. Y por último pasa por el regulador que está unido a un disipador de calor porque en el proceso el regulador alcanza temperaturas muy altas, el cual termina el proceso disminuyendo el valor de rizado y fijando una tensión de salida constante.
 
-Calculos para los componentes:
+CALCULOS PARA LOS COMPONENTES:
 
 <img width="248" alt="Captura" src="https://github.com/user-attachments/assets/a9504332-f29d-47fa-9c80-c44cce03d964">
 
-
-Esquema realizado en Altium:
+ESQUEMA REALIZADO EN ALTIUM:
 
 <img width="462" alt="Captura" src="https://github.com/user-attachments/assets/6c67324a-bc6f-4f91-b8af-568d7b4754fc">
 
-Simulacion con protoboard:
+SIMULACION CON LA PROTOBOARD:
 
 <img width="271" alt="Simulacion con protoboard" src="https://github.com/user-attachments/assets/69fe1cfd-de78-45be-b844-b577a10b9109">
 
@@ -59,4 +58,19 @@ En la protoboard hemos montado nuestra fuente de alimentación lineal para compr
 
 Como se puede observar la tensión de salida de nuestra fuente de alimentación lineal es 4,98 Vcc que equivale a 5 Vcc.
 
+DISEÑO PCB EN ALTIUM
+
+<img width="314" alt="PCB en Altium" src="https://github.com/user-attachments/assets/31535150-ca5e-4f3d-9b28-6f1f51f23dda">
+
+<img width="314" alt="PCB en Altium 3D" src="https://github.com/user-attachments/assets/9886edf0-bbcd-4d1c-8188-68a4708d71d8">
+
+<img width="286" alt="PCB en Altium Routes and Pads" src="https://github.com/user-attachments/assets/7dd7f46e-101a-4a22-9cea-c2786ccc905f">
+
+NOTA: 
+
+1.Aumentar el Ancho de pistas -> 1,5mm.
+
+2. Tamaño de los Pads (recordar que los pads son la región metálica expuesta de la placa de circuito impreso donde se  suelda) -> 2,54mm. (Así es más fácil luego para soldar.)
+
+3. Trata de hacer  las pistas en el Bottom Layer.
 
