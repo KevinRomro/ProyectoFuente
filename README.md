@@ -1,7 +1,7 @@
 # ProyectoFuente
 Segundo proyecto de Mantenimiento Electrónico. Fuente de alimentacion.
 
-Propuesta:
+PROPUESTA:
 
 Una empresa líder en la industria de telefonía móvil, nos ha contratado para desarrollar una fuente
 de alimentación lineal personalizada. Este proyecto implica la aplicación de conocimientos
@@ -16,7 +16,7 @@ Se deberá tener en cuenta que la salida de corriente continua debe ser estable 
 manteniendo en todo momento la tensión de salida requerida, solo de esta manera se pasarán
 todos los estándares para su comercialización.
 
-Componentes necesarios:
+COMPONENTES NECESARIOS:
 
 Transformador: CROVISA 230Vac/15Vac o 12Vac, 12VA, 80mA.
 
@@ -36,7 +36,7 @@ Conectores x2 E/S: 282836-2
 
 Puerto USB: 292303-3
 
-Funcionamineto del sistema:
+FUNCIONAMIENTO DEL SISTEMA:
 
 El sistema consiste en una fuente de alimentación lineal la cual transforma una corriente alterna de 230V en 5V de corriente continua. La fuente está compuesta por un transformador que convierte esos 230V AC en 15V AC mediante inducción electromagnética. Al generar tensión en el devanado primario se origina un flujo magnético en el núcleo de hierro. Este flujo viajará desde el devanado primario hasta el secundario. Después pasa por el rectificador el cual  es un puente de diodos que rectifica la señal haciendo que el voltaje siempre esté en el lado positivo, es decir, elimina la parte negativa de la señal. Luego pasa por el filtro que es un condensador polarizado que suaviza la señal haciendo ondas mucho menos pronunciadas. Y por último pasa por el regulador que está unido a un disipador de calor porque en el proceso el regulador alcanza temperaturas muy altas, el cual termina el proceso disminuyendo el valor de rizado y fijando una tensión de salida constante.
 
