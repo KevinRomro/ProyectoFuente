@@ -53,3 +53,4 @@ Simulacion con protoboard:
 
 <img width="271" alt="Simulacion con protoboard" src="https://github.com/user-attachments/assets/69fe1cfd-de78-45be-b844-b577a10b9109">
 
+En la protoboard hemos montado nuestra fuente de alimentación lineal para comprobar si la tensión de salida nos da 5 Vcc, también se colocó un led de encendido para poder saber si la fuente de alimentación estuviera conectado correctamente.
