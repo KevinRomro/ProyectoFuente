@@ -2,6 +2,7 @@
 Segundo proyecto de Mantenimiento Electrónico. Fuente de alimentacion.
 
 Propuesta:
+
 Una empresa líder en la industria de telefonía móvil, nos ha contratado para desarrollar una fuente
 de alimentación lineal personalizada. Este proyecto implica la aplicación de conocimientos
 avanzados en ingeniería electrónica y eléctrica para diseñar una fuente de alimentación eficiente,
