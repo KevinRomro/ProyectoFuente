@@ -49,4 +49,7 @@ Esquema realizado en Altium:
 
 <img width="462" alt="Captura" src="https://github.com/user-attachments/assets/6c67324a-bc6f-4f91-b8af-568d7b4754fc">
 
+Simulacion con protoboard:
+
+<img width="271" alt="Simulacion con protoboard" src="https://github.com/user-attachments/assets/69fe1cfd-de78-45be-b844-b577a10b9109">
 
