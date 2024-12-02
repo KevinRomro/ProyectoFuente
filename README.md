@@ -17,10 +17,17 @@ manteniendo en todo momento la tensión de salida requerida, solo de esta manera
 todos los estándares para su comercialización.
 
 Componentes necesarios:
+
 Transformador: CROVISA 230Vac/15Vac o 12Vac, 12VA, 80mA.
+
 Rectificador: DB10M, 1000 Vr, Iout 1A.
+
 Fitro: B41888C5338M000, 3300 uF, 25 Vdc.
+
 Regulador: L7805CV, 35Vdc input, 5Vdc output.
+
 Disipador: SK129/38.1STS, Rth 6,5 k/w.
+
 C1 para regulador: MKS0C033300D00MSSD, 0.33 uF, 63 Vdc.
+
 C2 para regulador: K471J15C0GF5TH5, 470 pF, 50 Vdc.
