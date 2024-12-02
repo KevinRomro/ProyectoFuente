@@ -40,6 +40,16 @@ FUNCIONAMIENTO DEL SISTEMA:
 
 El sistema consiste en una fuente de alimentación lineal la cual transforma una corriente alterna de 230V en 5V de corriente continua. La fuente está compuesta por un transformador que convierte esos 230V AC en 15V AC mediante inducción electromagnética. Al generar tensión en el devanado primario se origina un flujo magnético en el núcleo de hierro. Este flujo viajará desde el devanado primario hasta el secundario. Después pasa por el rectificador el cual  es un puente de diodos que rectifica la señal haciendo que el voltaje siempre esté en el lado positivo, es decir, elimina la parte negativa de la señal. Luego pasa por el filtro que es un condensador polarizado que suaviza la señal haciendo ondas mucho menos pronunciadas. Y por último pasa por el regulador que está unido a un disipador de calor porque en el proceso el regulador alcanza temperaturas muy altas, el cual termina el proceso disminuyendo el valor de rizado y fijando una tensión de salida constante.
 
+SIMULACION Y MEDICIONES CON EL OSCILOSCOPIO EN PROTEUS:
+
+<img width="461" alt="Esquema Proteus" src="https://github.com/user-attachments/assets/a4f05d23-83c1-4d28-9ab4-5b423d98d5ae">
+
+<img width="384" alt="Mediciones con osciloscopio (Transformador)" src="https://github.com/user-attachments/assets/7c1d5238-9ecf-4bf6-aa17-d70af8d65b1c">
+
+<img width="371" alt="Mediciones con osciloscopio (Rectificador)" src="https://github.com/user-attachments/assets/c076c506-7057-4307-bb8f-9c24454828d7">
+
+<img width="371" alt="Mediciones con osciloscopio (Regulador)" src="https://github.com/user-attachments/assets/63513003-c23a-45f1-8718-874f12c02f35">
+
 CALCULOS PARA LOS COMPONENTES:
 
 <img width="248" alt="Captura" src="https://github.com/user-attachments/assets/a9504332-f29d-47fa-9c80-c44cce03d964">
