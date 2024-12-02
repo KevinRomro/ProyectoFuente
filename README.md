@@ -74,3 +74,10 @@ NOTA:
 
 3. Trata de hacer  las pistas en el Bottom Layer.
 
+MONTAJE FINAL:
+
+<img width="315" alt="Montaje Final" src="https://github.com/user-attachments/assets/48607dce-679f-481f-b376-d374ce75513f">
+
+<img width="226" alt="Montaje Final 2" src="https://github.com/user-attachments/assets/51703dfc-7aec-4aa2-a504-35be4ebf00c7">
+
+
